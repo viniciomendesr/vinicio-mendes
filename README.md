@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicio Mendes</h1>
 <h3 align="center">Um estudante de programação, apaixonado por tecnologia e no seu potencial em tornar o mundo melhor.</h3>
 <p align="left"> **Profile in Building**</p>
 
