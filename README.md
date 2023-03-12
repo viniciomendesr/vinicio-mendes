@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on building a startup...
 
-- 🌱 I’m currently learning Electrical and Computer engineering
+- 🌱 I am currently studying Production Engineering and programming
 
 - 👨‍💻 All of my projects are available at https://github.com/oviniciomendes
 
-- 💬 Ask me about **Blockly Programming, HTML, CSS, JavaScript, C**
+- 💬 Ask me about **Blockly Programming, JavaScript, C++**
 
 - 📫 How to reach me **contatoviniciom@gmail.com**
 
