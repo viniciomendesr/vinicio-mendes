@@ -2,9 +2,7 @@
 <h3 align="center">Um estudante de programação, apaixonado por tecnologia e no seu potencial em tornar o mundo melhor.</h3>
 <p align="left"> **Profile in Building**</p>
 
-- 🔭 I’m currently working on building a startup...
-
-- 🌱 I am currently studying Production Engineering and programming
+- 🌱 I am currently studying Production Engineering
 
 - 👨‍💻 All of my projects are available at https://github.com/oviniciomendes
 
